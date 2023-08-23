@@ -4,5 +4,6 @@
 -Correo: monica-bd00@hotmail.com
 
 ##Actividad 1
--Programa 1
--Programa 2
+- p01-hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
