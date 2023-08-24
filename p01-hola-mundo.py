@@ -8,5 +8,6 @@ peso = float(input("Dame tu peso: "))
 
 print(f"\nTu nombre es {nombre}, de {edad}, con un peso de {peso}")
 
-
 print(type(nombre))
+print(type(edad))
+print(type(peso))
