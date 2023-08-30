@@ -15,3 +15,12 @@
 - p07-funciones-trigonometricas
 - p08-dividir-cifras
 
+## Actividad 3
+- p15-verifica-numero
+- p16-verifica-suma
+- p17-convertir-temperaturas
+- p18-paga-trabajador-v2
+
+
+
+
