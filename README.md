@@ -29,3 +29,8 @@
 - p13-calculo-tiempo
 - p14-numero-suerte
 
+## Actividad 4
+- p19-verifica-suma
+- p20-ley-de-newton
+- p21-aceptar-estudiante
+- p22-tipo-angulo
