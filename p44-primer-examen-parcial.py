@@ -86,3 +86,4 @@ while(True):
 
 print("\nEl total de la compra es: $", total)
 print("\nProceso terminado")
+
