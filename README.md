@@ -67,5 +67,23 @@
 ## Examen parcial 1
 - p44-primer-examen-parcial
 
+## Actividad 7
+- p45-numeros-1-100  
+- p46-numeros-100-1  
+- p47-arriba-abajo
+- p48-suma-pares-impares
+- p49-suma-numeros
 
+## Actividad 8
+- p50-factorial
+- p51-tabla-multiplicar
+- p52-tablas-multiplicar-v2
+- p53-piramide-caracter
+- p54-factorial-numeros
 
+## Tarea 4
+- p55-numeros-10-en-10
+- p56-suma-pares-2-n
+- p57-secuencia-numeros-1
+- p58–secuencia-numeros-2
+- p59-secuencia-terminos-1
