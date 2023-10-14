@@ -101,3 +101,15 @@
 - p66-modifcar-lista
 - p67-remover-lista
 - p68-lista-promedio
+
+## Actividad 10
+- p80–estudiante
+- p81–calificaciones
+- p82–nombresyedades
+
+## Tarea 6
+- p83-crear-acceder-diccionario
+- p84-modificar-diccionario
+- p85-agregar-diccionario
+- p86-eliminar-diccionario
+- p87-procesar-diccionario
