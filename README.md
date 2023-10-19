@@ -117,3 +117,11 @@
 ## Actividad 11
 - p88–trabajando-conjuntos
 - p89-operaciones-conjuntos
+
+## Examen parcial 2
+- p90-segundo-examen-parcial
+
+## Tarea 7
+- p91–personas
+- p92–numeros
+
