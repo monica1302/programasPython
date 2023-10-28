@@ -143,3 +143,8 @@
 - p105-calificación-con-letra
 - p106-suma-numeros-en-un-rango
 
+## Tarea 8
+- p107-numero-menor
+- p108-dia-semana
+- p109-medidas-longitud
+- p110-suma-pares-impares
