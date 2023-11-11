@@ -21,7 +21,7 @@ print("Id          = ",art1.ide)
 print("Descripcion = ",art1.descripcion)
 print("Cantidad    = ",art1.cantidad)
 print("Precio      = ",art1.precio)
-print(f"Total      = {art1.total():.2f}\n")
+print(f"Total       = {art1.total():.2f}\n")
 
 art2 = Articulo("A102", "Pluma Azul", 934, 1.2)
 print(art2)
