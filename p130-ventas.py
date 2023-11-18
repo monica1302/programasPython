@@ -59,7 +59,6 @@ def main():
 
 # Crear una Tienda
 mitienda = Tienda(nombre='Ferretaria las Lomas',domicilio='Av Luis Moya 345',propietario='Carlos Castaneda')
-
 # Agregar Clientes a la tienda
 mitienda.agregarCliente( Cliente(rfc='JELI120240',nombre='Felipe Calderon',domicilio='Las Lomas 123',correo='calde@msn.com') )
 mitienda.agregarCliente( Cliente(rfc='PEÑA121250',nombre='Enrique Peña',domicilio='5 de Mayo 321',correo='quique@gmail.com') )
@@ -84,9 +83,8 @@ for cliente in mitienda.clientes:
 print('\nVentas de cada cliente:')
 for cliente in mitienda.clientes:
     print(f'\n{cliente.rfc} - {cliente.nombre} - {cliente.totalVentas():,.2f}')
-    print()
-for venta in cliente.ventas:
-    print(f'- {venta}')
+    for venta in cliente.ventas:
+        print(f'- {venta}')
 print(f'\nTotal importe ventas : {mitienda.totalImporteVentas():,.2f}')
 # Programa principal
 if __name__ == '__main__':
