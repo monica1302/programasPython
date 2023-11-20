@@ -172,3 +172,9 @@
 
 ## Tarea 10
 - p129-articulo
+
+## Actividad 15
+- p130-ventas
+
+## Examen parcial 3
+- p131-tercer-examen-parcial

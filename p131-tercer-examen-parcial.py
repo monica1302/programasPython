@@ -128,3 +128,5 @@ for categorias in miAcademia.categorias:
   
 print(f"\nTotal : {miAcademia.totalImporte():,.2f}")
 
+
+print ("\nProceso terminado")
